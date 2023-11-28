@@ -1,4 +1,6 @@
 from fastapi import FastAPI
+
+#comentariu
 app = FastAPI()
 movies = [{"title":"Demo movie","year":"2001"}]
 
